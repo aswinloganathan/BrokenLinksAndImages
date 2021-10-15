@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37200" started-at="2021-08-27T14:41:15Z" finished-at="2021-08-27T14:41:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37200" started-at="2021-08-27T14:41:15Z" finished-at="2021-08-27T14:41:53Z">
+      <class name="BrokenImageLinks">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:BrokenImageLinks@7ff95560]" name="setUp" is-config="true" duration-ms="6016" started-at="2021-08-27T14:41:15Z" finished-at="2021-08-27T14:41:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateInvalidImages()[pri:0, instance:BrokenImageLinks@7ff95560]" name="validateInvalidImages" duration-ms="30108" started-at="2021-08-27T14:41:21Z" finished-at="2021-08-27T14:41:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInvalidImages -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:BrokenImageLinks@7ff95560]" name="tearDown" is-config="true" duration-ms="1015" started-at="2021-08-27T14:41:51Z" finished-at="2021-08-27T14:41:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- BrokenImageLinks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
